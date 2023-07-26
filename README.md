@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-Evden calisiyorum.<br><br>Bana java hakkinda sorularininzi sorabilirsiniz.<br>Fizik mezunuyum.
+Evden calisiyorum.<br>Bana java hakkinda sorularininzi sorabilirsiniz.<br>Fizik mezunuyum.
 ---
 
 ## 🌐 Socials:
