@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-Software Test Engineer<br>Bachelor-Abschluss in Physik
+Software Test Engineer<br>Bachelor-Abschluss in Physik<br><br>Detailorientierte und analytische Denkweise<br>Ausgezeichnete Problemlösungsfähigkeiten.
 ---
 
 ## 🌐 Socials:
