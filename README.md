@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-Evden calisiyorum.<br>Bana java hakkinda sorularininzi sorabilirsiniz.<br>Fizik mezunuyum.
+Software Test Engineer<br>Bachelor-Abschluss in Physik
 ---
 
 ## 🌐 Socials:
